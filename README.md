@@ -14,7 +14,6 @@ Proyecto de análisis de datos sobre la operación de una aerolínea. Se diseñ�
 - Script en Python para generar datos.
 - Dashboard de Power BI.
 - Diagrama entidad-relación y modelo relacional.
-- Informe del proyecto (no incluido en el repositorio porque contiene datos sensibles).
 
 ## Autor
 
